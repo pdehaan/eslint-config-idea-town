@@ -1,7 +1,7 @@
 module.exports = {
   "extends": [
     "eslint:recommended",
-    "airbnb"
+    "airbnb/base"
   ],
   "rules": {
     "comma-dangle": [2, "never"],
