@@ -8,7 +8,7 @@ Unfortunately, it doesn't look like you can obscure the nested dependencies into
 config. So for now you need to install the `eslint-config-idea-town` config, the [`eslint-config-airbnb`](https://www.npmjs.com/package/eslint-config-airbnb) config, and the [`babel-eslint`](https://www.npmjs.com/package/babel-eslint) parser:
 
 ```sh
-$ npm i --D eslint-config-idea-town eslint-config-airbnb babel-eslint
+$ npm i -D eslint-config-idea-town eslint-config-airbnb babel-eslint
 ```
 
 ## Usage:
